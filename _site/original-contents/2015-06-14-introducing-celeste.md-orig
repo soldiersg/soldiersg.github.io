@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Introducing Celeste &middot; 川崎ソリュジャーズG
+    
+  </title>
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic|Source+Code+Pro:400,700" type="text/css">
+  <link rel="stylesheet" href="/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="/css/style.css" type="text/css">
+
+  <link rel="icon" type="image/png" sizes="192x192" href="/favicon.png">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon.png">
+  
+  <link rel="alternate" type="application/atom+xml" title="川崎ソリュジャーズG" href="/atom.xml">
+</head>
+
+
+  <body>
+    <nav class="nav-main">
+      <ul>
+        <li class="hvr-underline-reveal"><a href="/about/">about</a></li>
+        <li class="logo"><a class="hvr-ripple-out" href="/">C</a></li>
+        <li class="hvr-underline-reveal"><a href="/blog/">blog</a></li>
+      </ul>
+    </nav>
+
+    <div class="container content">
+      <main>
+        <article class="post">
+  <h1 class="post-title">Introducing Celeste</h1>
+  <time datetime="" class="post-date"></time>
+  Celeste is a lightweight Jekyll theme that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. It is based on [Poole](https://github.com/poole/poole), the Jekyll butler, by [@mdo](https://github.com/mdo).
+
+### Built on Poole
+
+Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://github.com/mdo). Poole, and all its derivatives (like Celeste) includes the following:
+
+* Complete Jekyll setup included (layouts, config, [404](/404.html), [RSS feed](/atom.xml), posts, and a [sample page](/about/))
+* Mobile friendly design and development
+* Easily scalable text and component sizing with `rem` units in the CSS
+* Support for a wide gamut of HTML elements
+* Syntax highlighting, courtesy of [rouge](https://github.com/jneen/rouge)
+
+### Celeste Features
+
+In addition to the features of Poole, Celeste adds the following:
+
+* A design and structure with customizability in mind
+* A clean, unobstrusive top navigation bar
+* A landing page template for showcasing the most important content on your website
+* Optimized for compatibility with most reading tools such as [Pocket](https://getpocket.com), [Instapaper](https://www.instapaper.com) and [Feedly](https://feedly.com/).
+* Subtle animations on UI elements that give visual feedback when interacting with the page
+* Over 500 scalable vector icons, courtesy of [Font Awesome](https://fontawesome.com/v4.7.0/)
+
+<!-- Additional features to follow -->
+<!-- * A blog archives page, to allow easy access to old blog entries -->
+<!-- * Multiple color schemes, accessible via the `@import` directive -->
+
+Check out the [README](https://github.com/nicoelayda/celeste#readme) for more details.
+
+### Browser support
+
+Celeste is by preference a forward-thinking project. It is best viewed on the latest versions of Chrome, Safari, Firefox and Microsoft Edge.
+
+### Download
+
+Celeste is developed on and hosted with GitHub. Head to the [GitHub repository](https://github.com/nicoelayda/celeste) for downloads, bug reports, and features requests.
+
+</article>
+
+      </main>
+
+      <footer class="footer">
+        <small>
+            <span class="copyright"><i class="fa fa-copyright"></i> 2015-<time datetime="2025-03-25T17:36:21+09:00">2025</time> Kawasaki Soldiers G</span> &middot;
+            <span>Powered by <a href="http://jekyllrb.com/">Jekyll</a></span>
+        </small>
+        <div class="ftr-links">
+          <a href="https://github.com/canaan"><i class="fa fa-github-alt"></i></a>
+          <a href="https://twitter.com/canaan"><i class="fa fa-twitter"></i></a>
+        </div>
+      </footer>
+    </div>
+
+  </body>
+</html>
