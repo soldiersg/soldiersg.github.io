@@ -1,9 +1,9 @@
 # 川崎ソルジャーズGにようこそ
 
 このレポジトリは、川崎市麻生区長沢小学校を中心に活動する小学校女子バレーボールチームの公開ホームページ用です。
-ホームページは[こちら](https://soldiersg.github.io/)です。
+ホームページは[こちら](https://soldiersg.github.io/)です。😄
 
-活動記録のためのファイル登録や変更、また写真のアップロードにはCollaborators登録が必要ですので、必要に応じて登録します。問い合わせ先は[こちら](mailto:kawasakisoldiersg@gmail.com)です。
+活動記録のためのファイル登録や変更、また写真のアップロードにはCollaborators登録が必要ですので、必要に応じて登録します。問い合わせ先は[こちら](mailto:kawasakisoldiersg@gmail.com)です。😊
 
 ## 記事を作成する場合の手順
 1. 作成済みの活動記録ファイルの名前をYYYY-MM-DD-name.mdに変更します。英数字を使ったファイル名にしてください。例：2025-02-15-ohimachi-ensei.md
