@@ -4,7 +4,7 @@
  <title>川崎ソルジャーズG</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000"/>
- <updated>2025-03-25T21:35:31+09:00</updated>
+ <updated>2025-03-25T22:30:10+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Kawasaki Soldiers G</name>
@@ -13,13 +13,29 @@
 
  
  <entry>
-   <title>2025年 卒団式</title>
+   <title>2024年度 卒団式</title>
    <link href="http://localhost:4000/blog/2025/03/23/sotsudanshiki/"/>
    <updated>2025-03-23T00:00:00+09:00</updated>
    <id>http://localhost:4000/blog/2025/03/23/sotsudanshiki</id>
    <content type="html">&lt;p&gt;2025年3月23日は卒団式でした。
 ソルGの経験を元に，中学校でも頑張れると思います。
 いつでも練習に来てね〜&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>大井町遠征</title>
+   <link href="http://localhost:4000/blog/2025/02/15/ohimachiensei/"/>
+   <updated>2025-02-15T00:00:00+09:00</updated>
+   <id>http://localhost:4000/blog/2025/02/15/ohimachiensei</id>
+   <content type="html">&lt;p&gt;大井町まで遠征してきました。結果はふるいませんでしたが，精一杯バレーに取り組んでいました。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ohimachi1.jpg&quot; alt=&quot;&quot; width=&quot;50%&quot; /&gt;
+&lt;img src=&quot;/images/ohimachi2.jpg&quot; alt=&quot;&quot; width=&quot;50%&quot; /&gt;
+&lt;img src=&quot;/images/ohimachi3.jpg&quot; alt=&quot;&quot; width=&quot;50%&quot; /&gt;
+&lt;img src=&quot;/images/ohimachi4.jpg&quot; alt=&quot;&quot; width=&quot;50%&quot; /&gt;
+&lt;img src=&quot;/images/ohimachi5.jpg&quot; alt=&quot;&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+
 </content>
  </entry>
  
