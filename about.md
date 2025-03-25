@@ -6,7 +6,7 @@ title: About
 連絡先はE-MailまたはFacebookのDMでお願いします。
 
 <div>
-    <a href="mailto:hogehoge@fugafuga.com">hogehoge@fugafuga.com</a>
+    <a href="mailto:kawasakisoldiersg@gmail.com">kawasakisoldiersg@gmail.com</a>
     　　　
     <a href="https://www.facebook.com/KawasakiSoldiersG/">Facebook</a>
     　　　
