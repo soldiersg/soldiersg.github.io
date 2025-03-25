@@ -1,10 +1,8 @@
 このレポジトリは、川崎市麻生区長沢小学校を中心に活動する小学校女子バレーボールチームの公開ホームページです。
 
 
-This repository based on [Celeste](https://github.com/nicoelayda/celeste) from Jekyll theme is for my blog
-
 ---
-# celeste
+## celeste
 
 Celeste is a lightweight Jekyll theme that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. It is based on [Poole](https://github.com/poole/poole), the Jekyll butler, by [@mdo](https://github.com/mdo).
 
@@ -12,6 +10,6 @@ Celeste is a lightweight Jekyll theme that features a minimalist, content-first 
 
 You can check out Celeste in action in [the demo site](https://nicoelayda.github.io/celeste).
 
-## License
+### License
 
 MIT. See [LICENSE](https://github.com/nicoelayda/celeste/blob/master/LICENSE).
