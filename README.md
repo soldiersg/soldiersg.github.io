@@ -5,15 +5,13 @@
 活動記録のためのファイル登録や変更、また写真のアップロードにはCollaborators登録が必要ですので、必要に応じて登録します。
 
 ## 記事を作成する場合の手順
-1. 作成済みの活動記録ファイルの名前をYYYY-MM-DD-name.mdに変更します。英数字を使ったファイル名にしてください。
-　　例：2025-02-15-ohimachi-ensei.md
+1. 作成済みの活動記録ファイルの名前をYYYY-MM-DD-name.mdに変更します。英数字を使ったファイル名にしてください。例：2025-02-15-ohimachi-ensei.md
 2. soldiersg.github.io/blog/_posts/ に移動し、"Add file" -> "Upload files" の順で選択
 3. 該当するファイルをドラッグアンドドロップします。
 4. このページの"Commit changes"をクリックし、終了です。
 
 ## 写真をアップロードする場合の手順
-1. ファイル名を分かりやすい名前に変更します。英数字を使ったファイル名にしてください。
-　　例：ohimachi1.jpg
+1. ファイル名を分かりやすい名前に変更します。英数字を使ったファイル名にしてください。例：ohimachi1.jpg
 2. soldiersg.github.io/images/ に移動し、"Add file" -> "Upload files" の順で選択
 3. 該当するファイルをドラッグアンドドロップします。
 4. このページの"Commit changes"をクリックし、終了です。
