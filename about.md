@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-連絡先はE-MailまたはFacebookのDMでお願いします。
+連絡はE-MailまたはFacebookのDMでお願いします。
 
 <div>
     <a href="mailto:kawasakisoldiersg@gmail.com">kawasakisoldiersg@gmail.com</a>
