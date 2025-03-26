@@ -13,7 +13,7 @@ title: About
     <br>
     ・<a href="https://www.facebook.com/KawasakiSoldiersG/">Facebook</a>
     <br>
-    ・E-mail: kawasakisoldiersg＠gmail.com
+    ・メール: kawasakisoldiersg＠gmail.com
     <br>
     　(アットマークを半角に変更してください)
 </div>
