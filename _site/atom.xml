@@ -4,7 +4,7 @@
  <title>川崎ソルジャーズG</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000"/>
- <updated>2025-03-26T00:13:01+09:00</updated>
+ <updated>2025-03-26T20:19:34+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Kawasaki Soldiers G</name>
@@ -24,19 +24,28 @@
  </entry>
  
  <entry>
+   <title>モルテンカップ</title>
+   <link href="http://localhost:4000/blog/2025/02/16/morutencup/"/>
+   <updated>2025-02-16T00:00:00+09:00</updated>
+   <id>http://localhost:4000/blog/2025/02/16/morutencup</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/reel/DGP_SLlpb6c/?utm_source=ig_web_copy_link&amp;amp;igsh=MzRlODBiNWFlZA==&quot;&gt;新人戦のモルテンカップに出場しました。&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>大井町遠征</title>
    <link href="http://localhost:4000/blog/2025/02/15/ohimachiensei/"/>
    <updated>2025-02-15T00:00:00+09:00</updated>
    <id>http://localhost:4000/blog/2025/02/15/ohimachiensei</id>
-   <content type="html">&lt;p&gt;大井町まで遠征してきました。結果はふるいませんでしたが、精一杯バレーに取り組んでいました。
-:+1::blush::grinning:&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.instagram.com/reel/DGPobmsJqmo/?utm_source=ig_web_copy_link&amp;amp;igsh=MzRlODBiNWFlZA==&quot;&gt;はばたけカップ出場のため、大井町まで遠征しました。&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/ohimachi1.jpg&quot; alt=&quot;&quot; width=&quot;50%&quot; /&gt;
-&lt;img src=&quot;/images/ohimachi2.jpg&quot; alt=&quot;&quot; width=&quot;50%&quot; /&gt;
-&lt;img src=&quot;/images/ohimachi3.jpg&quot; alt=&quot;&quot; width=&quot;50%&quot; /&gt;
-&lt;img src=&quot;/images/ohimachi4.jpg&quot; alt=&quot;&quot; width=&quot;50%&quot; /&gt;
-&lt;img src=&quot;/images/ohimachi5.jpg&quot; alt=&quot;&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
-
+&lt;!-- 
+![](/images/ohimachi1.jpg){:width=&quot;50%&quot;}
+![](/images/ohimachi2.jpg){:width=&quot;50%&quot;}
+![](/images/ohimachi3.jpg){:width=&quot;50%&quot;}
+![](/images/ohimachi4.jpg){:width=&quot;50%&quot;}
+![](/images/ohimachi5.jpg){:width=&quot;50%&quot;}
+--&gt;
 </content>
  </entry>
  

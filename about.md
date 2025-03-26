@@ -10,5 +10,5 @@ title: About
     <br>
     <a href="https://www.facebook.com/KawasakiSoldiersG/">Facebook</a>
     <br>
-    <a href="https://www.instagram.com/kawasaki.soldiers.g/">Instagram</a>
+    <!-- <a href="https://www.instagram.com/kawasaki.soldiers.g/">Instagram</a> -->
 </div>
