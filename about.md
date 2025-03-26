@@ -9,9 +9,9 @@ title: About
     <!--
     E-mail: <a href="mailto:kawasakisoldiersg@gmail.com">kawasakisoldiersgあっとまーくgmail.com</a>
     -->
-    ・E-mail: kawasakisoldiersgあっとまーくgmail.com
+    ・E-mail: kawasakisoldiersg＠gmail.com
     <br>
-    あっとまーくを＠に変更してください。
+    アットマークを半角に変更してください。
     <br>
     <br>
     ・Facebookの<a href="https://www.facebook.com/KawasakiSoldiersG/">DM</a>
