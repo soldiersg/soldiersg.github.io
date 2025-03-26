@@ -279,6 +279,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-seo-tag
   jemoji
   webrick (~> 1.7)
 

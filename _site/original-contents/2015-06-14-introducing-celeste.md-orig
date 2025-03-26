@@ -27,6 +27,8 @@
 <meta property="og:title" content="Introducing Celeste" />
 <meta name="author" content="Kawasaki Soldiers G" />
 <meta property="og:locale" content="en_US" />
+<meta name="description" content="女子バレーボール 小学生 麻生区" />
+<meta property="og:description" content="女子バレーボール 小学生 麻生区" />
 <link rel="canonical" href="http://localhost:4000/original-contents/2015-06-14-introducing-celeste.md-orig" />
 <meta property="og:url" content="http://localhost:4000/original-contents/2015-06-14-introducing-celeste.md-orig" />
 <meta property="og:site_name" content="川崎ソルジャーズG" />
@@ -34,7 +36,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Introducing Celeste" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Kawasaki Soldiers G","url":"https://soldiersg.github.io/kawasaki-soldiersg"},"headline":"Introducing Celeste","url":"http://localhost:4000/original-contents/2015-06-14-introducing-celeste.md-orig"}</script>
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Kawasaki Soldiers G","url":"https://soldiersg.github.io/kawasaki-soldiersg"},"description":"女子バレーボール 小学生 麻生区","headline":"Introducing Celeste","url":"http://localhost:4000/original-contents/2015-06-14-introducing-celeste.md-orig"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
@@ -97,7 +99,7 @@ Celeste is developed on and hosted with GitHub. Head to the [GitHub repository](
 
       <footer class="footer">
         <small>
-            <span class="copyright"><i class="fa fa-copyright"></i> 2015-<time datetime="2025-03-26T20:28:18+09:00">2025</time> Kawasaki Soldiers G</span> <!--&middot;
+            <span class="copyright"><i class="fa fa-copyright"></i> 2015-<time datetime="2025-03-26T20:42:36+09:00">2025</time> Kawasaki Soldiers G</span> <!--&middot;
             <span>Powered by <a href="http://jekyllrb.com/">Jekyll</a></span> -->
         </small>
         <!--

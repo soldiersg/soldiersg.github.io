@@ -21,10 +21,19 @@ sass:
 author:
   name:              Kawasaki Soldiers G
   url:               https://soldiersg.github.io/kawasaki-soldiersg
-#  email:             
+  email:             kawasakisoldiersg@gmail.com
+
+description:         女子バレーボール 小学生 麻生区
+
+social:
+  name:              川崎ソルジャーズG
+  links:
+    - https://www.facebook.com/KawasakiSoldiersG
+    - https://www.instagram.com/kawasaki.soldiers.g
 
 plugins:
   - jekyll-coffeescript
   - jekyll-paginate
   - jekyll-gist
   - jemoji
+  - jekyll-seo-tag
