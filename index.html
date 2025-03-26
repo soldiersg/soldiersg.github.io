@@ -48,5 +48,16 @@ title: Home
       <a href="{{site.baseurl}}/blog/">活動の軌跡(blog)</a>
     </p>
   </div>
-
-
+<!--
+  <h2>Instagram フィード</h2>
+  <ul>
+    {% for post in site.data.instagram %}
+    <li>
+      <a href="{{ post.permalink }}" target="_blank">
+        <img src="{{ post.media_url }}" alt="{{ post.caption | escape }}" />
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+-->
+</div>
