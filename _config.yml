@@ -1,5 +1,5 @@
 title:               川崎ソルジャーズG
-url:                 https://soldiersg.github.io/kawasaki-soldiersg
+url:                 https://soldiersg.github.io/
 baseurl:             ""
 
 markdown:            kramdown
@@ -20,7 +20,7 @@ sass:
 
 author:
   name:              Kawasaki Soldiers G
-  url:               https://soldiersg.github.io/kawasaki-soldiersg
+  url:               https://soldiersg.github.io/
   email:             kawasakisoldiersg@gmail.com
 
 description:         女子バレーボール 小学生 麻生区
